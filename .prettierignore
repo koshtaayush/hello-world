@@ -1,0 +1,6 @@
+package.json
+.gitignore
+.prettierignore
+.vscode
+dist/
+node_modules
