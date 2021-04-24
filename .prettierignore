@@ -4,3 +4,4 @@ package.json
 .vscode
 dist/
 node_modules
+test-directory/
