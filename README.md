@@ -2,13 +2,13 @@
 
 ## Installation 🏗️
 
-npm install @koshtaayush/hello-world
+npm install hello-world-ayush
 
 ## Usage
 
-Import the hello-world package like 
+Import the hello-world-ayush package like 
 
-const printHelloWorld = require('hello-world');
+const printHelloWorld = require("hello-world-ayush");
 
 Then use, 
 printHelloWorld();
